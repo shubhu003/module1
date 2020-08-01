@@ -1,1 +1,2 @@
-This is is github commit
+This is Github commit
+This is Git Remote
