@@ -1,3 +1,3 @@
 This is Git Remote Repoisitory
 It is my first repository;
-Cmpare remote repo
+Compare remote repo
